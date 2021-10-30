@@ -1,0 +1,17 @@
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+/usr/bin/bash: wq: command not found
